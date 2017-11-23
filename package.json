@@ -1,7 +1,7 @@
 {
   "name": "laravel-elixir-asset-version",
   "version": "1.0.0",
-  "description": "Update asset version configuration for Laravel Elixir.",
+  "description": "Update Laravel asset version configuration for Laravel Elixir.",
   "keywords": [
     "laravel",
     "elixir",
