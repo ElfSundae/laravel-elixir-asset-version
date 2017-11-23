@@ -1,0 +1,20 @@
+{
+  "name": "laravel-elixir-asset-version",
+  "version": "1.0.0",
+  "description": "Update asset version configuration for Laravel Elixir.",
+  "keywords": [
+    "laravel",
+    "elixir",
+    "asset",
+    "version",
+    "revision"
+  ],
+  "author": "Elf Sundae",
+  "homepage": "https://github.com/ElfSundae/laravel-elixir-asset-version",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElfSundae/laravel-elixir-asset-version.git"
+  },
+  "main": "index.js"
+}
